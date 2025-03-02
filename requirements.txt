@@ -1,0 +1,7 @@
+# requirements.txt
+azure-identity>=1.13.0
+msgraph-core>=0.2.2
+pyautogen>=0.2.0
+python-dotenv>=0.21.0
+openai>=0.27.8
+python-dotenv>=0.21.0  # Explicitly include dotenv
